@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+div{
+    background-color: beige;
+    width: 500px;
+    margin: auto;
+    border: 10px solid black;
+    border-radius: 20px;
+}
